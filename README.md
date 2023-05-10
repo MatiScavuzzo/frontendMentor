@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://fmqrcode.vercel.app/)
-- Live Site URL: [Add live site URL here](https://fmqrcode.vercel.app/)
+- Solution URL: [https://fmqrcode.vercel.app/](https://fmqrcode.vercel.app/)
+- Live Site URL: [https://fmqrcode.vercel.app/](https://fmqrcode.vercel.app/)
 
 ## My process
 
